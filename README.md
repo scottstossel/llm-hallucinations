@@ -27,4 +27,4 @@ Hallucinations are a major barrier to reliable deployment of LLMs in real-world 
 
 ## Quick start
 
-1. Baseline model and dataset can be obtained by following Hallucination_Baseline in the notebooks folder.
+1. Dataset used in our experiments can be obtained by running Data_Retrieval.ipynb.
