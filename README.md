@@ -22,7 +22,8 @@ Hallucinations are a major barrier to reliable deployment of LLMs in real-world 
 
 ## Repository layout
 
-- `notebooks/` — interactive analyses and visualizations.
+- `Data_Retrieval.ipynb` - start with this file to obtain the dataset used.
+- `experiments/` — interactive analyses and visualizations.
 - `README.md` — this file.
 
 ## Quick start
