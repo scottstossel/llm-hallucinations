@@ -8,7 +8,7 @@ Hallucinations are a major barrier to reliable deployment of LLMs in real-world 
 
 ## Goals
 
-- Build a reproducible evaluation suite for measuring hallucinations.
+- Build a reproducible evaluation suite for measuring summarization hallucinations.
 - Curate datasets and prompts that surface hallucination behavior.
 - Compare mitigation techniques: retrieval augmentation, prompt engineering, constraint-based decoding, and post-hoc verification.
 - Provide scripts, notebooks, and visualizations to reproduce and analyze experiments.
