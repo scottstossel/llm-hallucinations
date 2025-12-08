@@ -5,6 +5,7 @@ This repository contains the code, data processing steps, models, and analysis u
 
 Paper: Do Hallucination Detectors Understand Factuality? A Robustness Study with Paraphrased Summaries
 Authors: Scott Stossel, Jing Tan
+
 UC Berkeley School of Information (MIDS)
 
 ## Motivation
