@@ -1,7 +1,7 @@
 # Do Hallucination Detectors Understand Factuality?
 A Robustness Study with Paraphrased Summaries
 
-This repository contains the code, data processing steps, models, and analysis used to evaluate the robustness of hallucination-detection models under paraphrasing. Our goal is to test whether widely used detectors truly understand factual consistency or whether their strong bechmark performance is driven by superficial linguistic cues.
+This repository contains the code, data processing steps, models, and analysis used to evaluate the robustness of hallucination-detection models under paraphrasing. Our goal is to test whether widely used detectors truly understand factual consistency or whether their strong benchmark performance is driven by superficial linguistic cues.
 
 Paper: Do Hallucination Detectors Understand Factuality? A Robustness Study with Paraphrased Summaries
 
